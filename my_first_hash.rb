@@ -17,7 +17,7 @@ def retrieval
 
   #your code here!
 
-   hash["oil paintings"]
+   return hash["oil paintings"]
 end
 
 def adding
